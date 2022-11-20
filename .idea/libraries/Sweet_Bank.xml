@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sweet_Bank">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Sweet_Bank.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
